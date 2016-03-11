@@ -1,0 +1,3 @@
+mótstandurNavn,livitíð,kostnaður,pengabrúkPrDag,[hvørErHóttanin,hvatÍHóttanini,mongdÁvirkan,háttur][...][...]:Detail (hvatÍHóttanini kann vera: mongd, maxMongd, tjansur, tjansurDeviation, vaksa ella vaksaDeviation)
+Rognkelsi,90,30000,0,[lus,maxMongd,50,PROSENT]:Smadir fiskar, sum etur lus av fiskinum. Heldur saer i 90 dagar.
+HydrogenDioxid,0,200000,0,[lus,mongd,90,PROSENT]:Eingangs handling til aliringin, til at avlúsa laksin.

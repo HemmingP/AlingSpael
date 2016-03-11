@@ -1,0 +1,3 @@
+navn,typa,tjansur,tjansurDeviation,maxMongd,vaksa,vaksaDeviation,stressK,stressKDeviation,drepur,drepurDeviation,[ávirkar aðrar hóttanir;mongd;deviation;tjansurPrHóttan][][]...
+lus,Sníkur,50,20,10,0.08,0.04,0.402359,0.1,0.00005,0.0001
+kop,Djór,0.2,0.5,20,0.5,0.9,0.8513,0,1,1,[hol;1;0.05][kop;0.05]
